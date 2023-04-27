@@ -9,6 +9,7 @@ spec:
     - name: git_pr_branch
     - name: git_fork_url
     - name: git_pr_url
+    - name: git_pr_title
     - name: git_username
     - name: git_commit
     - name: env
